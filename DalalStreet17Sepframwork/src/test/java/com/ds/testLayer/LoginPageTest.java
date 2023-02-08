@@ -23,6 +23,7 @@ public class LoginPageTest extends TestBase{
 		login_obj.clickon_loginbtn();
 		Thread.sleep(3000);
 		//login_obj.ClickOnSignUp_btn();
+		System.out.println("Lalit");
 		
 //		SignupPage signup_obj = new SignupPage(driver);
 //		signup_obj.enterFirstName("Lalit");

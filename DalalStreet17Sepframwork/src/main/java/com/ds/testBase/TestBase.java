@@ -37,7 +37,7 @@ public static WebDriver driver;
 		}
 		else
 		{
-			System.out.println("Please provide correct browser name");
+			System.out.println("Please provide browser name");
 		}
 			
 		
